@@ -40,7 +40,6 @@ This repository contains the project documents, design files, and test records.
 
 - [Client meetings](./Notes/ClientMeetings/): meeting records.
 - [Tasks completed](./notes/Tasks%20Completed.docx): completed work records.
-- [Week 2 goals](./notes/Goals%20Week%202.docx): early project goals.
 
 ## Code
 
