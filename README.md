@@ -10,18 +10,18 @@ This repository contains the project documents, design files, and test records.
 | --- | --- |
 | [Project proposal](./deliverables/Capstone%20Group%203%20Project%20Proposal.docx) | Project purpose, scope, requirements, objectives, and schedule. |
 | [City of Kingston presentation](./deliverables/City%20of%20Kingston%20Presentation.pptx) | Presentation for the City of Kingston. |
-| [SAMI storyboard](./Deliverables/Storyboard%20of%20SAMI.pdf) | Project storyboard. |
-| [Risk register](./Deliverables/SAMIRiskRegister.xlsx) | Project risk records. |
+| [SAMI storyboard](./deliverables/Storyboard%20of%20SAMI.pdf) | Project storyboard. |
+| [Risk register](./deliverables/SAMIRiskRegister.xlsx) | Project risk records. |
 | [Group tasks](./deliverables/Group%20Tasks.xlsx) | Team task records. |
-| [Timesheet](./Deliverables/Timesheet.xlsx) | Team time records. |
+| [Timesheet](./deliverables/Timesheet.xlsx) | Team time records. |
 | [Archived proposals](./deliverables/Archive/) | Earlier proposal copies and backups. |
 
 ## Design files
 
 | Folder | Contents |
 | --- | --- |
-| [Mechanical design](./Design/Mechanical/) | Robot and sensor CAD files, initial configuration drawing, and calculations. |
-| [Electrical design](./Design/Electrical/) | Power distribution diagram and LiDAR and laptop buck converter calculations. |
+| [Mechanical design](./design/Mechanical/) | Robot and sensor CAD files, initial configuration drawing, and calculations. |
+| [Electrical design](./design/Electrical/) | Power distribution diagram and LiDAR and laptop buck converter calculations. |
 | [Branding](./design/Branding/) | SAMI logo files. |
 
 ## Test records
@@ -38,7 +38,7 @@ This repository contains the project documents, design files, and test records.
 
 ## Project notes
 
-- [Client meetings](./Notes/ClientMeetings/): meeting records.
+- [Client meetings](./notes/ClientMeetings/): meeting records.
 - [Tasks completed](./notes/Tasks%20Completed.docx): completed work records.
 
 ## Code
